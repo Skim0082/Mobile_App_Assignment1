@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">The Roster</string>
+    <string name="app_title">Assignment1 - Mobile App. Design</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="status_prompt">Choose a status</string>
+    <string-array name="status_arrays">
+        <item>Amber</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Hazel</item>
+        <item>Red and violet</item>
+    </string-array>
+
+    <color name="grey">#cccccc</color>
+    <color name="grey_light">#646464</color>
+</resources>
